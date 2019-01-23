@@ -8,5 +8,5 @@ import javax.faces.convert.FacesConverter;
  * Created by sdrahnea
  */
 @FacesConverter("chartTypeConverter")
-public class ChartTypeConverter extends AbstractConverter<Constant> {
+public class UIChartTypeConverter extends UIAbstractConverter<Constant> {
 }
