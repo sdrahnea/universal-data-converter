@@ -1,4 +1,5 @@
 SELECT 1;
+-- create database udc;
 -- TO RUN default scrips for another tables, use the specific .sql files
 -- insert into constant(name) values ('true'), ('false');
 
