@@ -1,4 +1,4 @@
-package com.udc.converter;
+package com.udc.converter.ui;
 
 import com.udc.model.Constant;
 
@@ -8,5 +8,5 @@ import javax.faces.convert.FacesConverter;
  * Created by sdrahnea
  */
 @FacesConverter("constantConverter")
-public class ConstantConverter extends AbstractConverter<Constant> {
+public class UIConstantConverter extends UIAbstractConverter<Constant> {
 }

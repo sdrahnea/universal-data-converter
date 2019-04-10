@@ -1,4 +1,4 @@
-package com.udc.converter;
+package com.udc.converter.ui;
 
 import org.omnifaces.util.selectitems.SelectItemsUtils;
 
@@ -12,7 +12,7 @@ import javax.faces.convert.ConverterException;
  *
  * @author sdrahnea
  */
-public abstract class AbstractConverter<T> implements Converter {
+public abstract class UIAbstractConverter<T> implements Converter {
 
   @Override
   public Object getAsObject(FacesContext fc, UIComponent uic, String value) {
