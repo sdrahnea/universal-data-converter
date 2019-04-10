@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "first0",
+    "lastName": "last0",
+    "city" : "city0"
+  },
+  {
+    "firstName": "first1",
+    "lastName": "last1",
+    "city" : "city1"
+  },
+  {
+    "firstName": "first2",
+    "lastName": "last2",
+    "city" : "city2"
+  },
+  {
+    "firstName": "first3",
+    "lastName": "last3",
+    "city" : "city3"
+  }
+]
